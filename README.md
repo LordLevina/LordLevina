@@ -22,7 +22,3 @@ I'm currently studying software development in Germany and building practical Ja
 Become a professional Java Backend / Full-Stack Dveloper.
 
 Thanks for visiting my profile! 🚀
-- Linux
-- SQL
-
-Thanks for visiting my profile! 🚀
