@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Elena!
+## About Me
 
-<!--
-**LordLevina/LordLevina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer in Training
 
-Here are some ideas to get you started:
+📚 Currently learning:
+- Java
+- Spring Boot
+- Git & GitHub
+- Linux
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal:
+Build high-quality Java applications and continuously improve my software development skills.
+
+## Current Projects
+
+- Java learning projects
+- Git & GitHub practice
+- Spring Boot applications
+- QA Portfolio
+
+## Technologies
+
+- Java
+- Spring Boot
+- Git
+- GitHub
+- Linux
+- SQL
+
+Thanks for visiting my profile! 🚀
