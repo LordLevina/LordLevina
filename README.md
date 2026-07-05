@@ -1,31 +1,27 @@
 # Hi, I'm Elena!
-## About Me
+### Java Developer in Training
 
-💻 Java Developer in Training
+I'm currently studying software development in Germany and building practical Java projects every day.
 
-📚 Currently learning:
+### What I'm learning
 - Java
 - Spring Boot
 - Git & GitHub
 - Linux
 - SQL
 
-🎯 Goal:
-Build high-quality Java applications and continuously improve my software development skills.
+### Current Focus
 
-## Current Projects
+- Building Java applications 
+- Improving clean coding skills
+- Learning backend development
+- Expanding my Git & GitHub workflow
 
-- Java learning projects
-- Git & GitHub practice
-- Spring Boot applications
-- QA Portfolio
+### Goal
 
-## Technologies
+Become a professional Java Backend / Full-Stack Dveloper.
 
-- Java
-- Spring Boot
-- Git
-- GitHub
+Thanks for visiting my profile! 🚀
 - Linux
 - SQL
 
