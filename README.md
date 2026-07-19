@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=180&section=header"/>
+</p>
 # Hi, I'm Elena!
 ### Java Developer in Training
 
